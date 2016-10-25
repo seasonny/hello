@@ -1,1 +1,2 @@
-add feed.js
+add feed.js 
+fix typo
